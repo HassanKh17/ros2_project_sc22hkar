@@ -1,2 +1,3 @@
 # ros2-project
-A lab project combines what has been taught in this module, to complete a task 
+[![Watch the video](https://img.youtube.com/vi/OusBsx283k8/maxresdefault.jpg)](https://youtu.be/OusBsx283k8)
+
